@@ -12,3 +12,7 @@
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
+<h1 align="center">
+  Приветик <3
+  <img src="https://media.giphy.com/media/EkP2oe5Nv1fRJdVvqK/giphy.gif" width="70px"/>
+</h1>
