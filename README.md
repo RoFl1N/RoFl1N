@@ -13,6 +13,5 @@
   </a>
 </div>
 <h1 align="center">
-  Приветик <3
-  <img src="https://media.giphy.com/media/EkP2oe5Nv1fRJdVvqK/giphy.gif" width="70px"/>
+  <img src="https://media.discordapp.net/attachments/1051951476039233546/1052496850923573308/4B88DE8D-A8BD-41E1-B725-22858DE8B52E.gif" width="600px"/>
 </h1>
